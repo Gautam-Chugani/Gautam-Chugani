@@ -30,7 +30,7 @@
 <div>
   <p align="center"><b><i>Languages Used:</i><b><br><br>
 <a href="https://github.com/Gautam-Chugani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeyl&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-Chugani&theme=dark&hide_langs_below=1" />
     </a></p></div><br>
 <div>
   <p align="center"><b><i>GitHub Statistics:</i><b><br><br>
@@ -44,7 +44,7 @@
 </div>
 <hr>
   <div style="display: flex; align-items: center;">
- <a href="www.linkedin.com/in/gautmchugani">
+ <a href="https://www.linkedin.com/in/gautmchugani/">
     <img align="left" alt="Gautam Chugani | Linkedin" width="48px" height="48px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:gautam.chugani@gmail.com">
