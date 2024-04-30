@@ -23,7 +23,7 @@
   <br><br>
 <hr>
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Github+Trophies"></h2>
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=tanzeyl&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Gautam-Chugani&column=8&theme=gruvbox&no-frame=true"/>
   
   
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Let's+look+at+some+statistics:"></h2>
